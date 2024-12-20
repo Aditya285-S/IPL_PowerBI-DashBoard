@@ -1,6 +1,11 @@
 # IPL-PowerBI-DashBoard
 Created an interactive dashboard using Power BI to analyze the IPL dataset. The dashboard includes a home page for easy navigation and three dedicated views focusing on players, teams, and an overall IPL overview, providing comprehensive and insightful visualizations.
 
+## Dataset
+
+- https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons?select=2024
+
+
 ## Dashboards
 
 ### Home Page
