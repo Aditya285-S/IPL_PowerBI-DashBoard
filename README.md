@@ -1,16 +1,16 @@
-# IPL_PowerBI-DashBoard
+# IPL-PowerBI-DashBoard
 Created an interactive dashboard using Power BI to analyze the IPL dataset. The dashboard includes a home page for easy navigation and three dedicated views focusing on players, teams, and an overall IPL overview, providing comprehensive and insightful visualizations.
 
 ## Dashboards
 
-### Software Developer Survey Dashboard
-![](https://github.com/Aditya285-S/PowerBI-Tableau-Dashboards/blob/main/Visualizations/4.png)
+### Home Page
+![](https://github.com/Aditya285-S/IPL_PowerBI-DashBoard/blob/main/IPL%20Visulizations/1.%20Home%20Page.png)
 
-### Ecommerse Sales Dashboard
-![](https://github.com/Aditya285-S/PowerBI-Tableau-Dashboards/blob/main/Visualizations/3.png)
+### IPL Overview
+![](https://github.com/Aditya285-S/IPL_PowerBI-DashBoard/blob/main/IPL%20Visulizations/1.%20IPL%20Overview.png)
 
-### Dowry Cases Dashboard
-![](https://github.com/Aditya285-S/PowerBI-Tableau-Dashboards/blob/main/Visualizations/2.png)
+### Teams Overview
+![](https://github.com/Aditya285-S/IPL_PowerBI-DashBoard/blob/main/IPL%20Visulizations/1.%20Team%20Overview.png)
 
-### Crime Deaths in America's States
-![](https://github.com/Aditya285-S/PowerBI-Tableau-Dashboards/blob/main/Visualizations/1.png)
+### Players Overview
+![](https://github.com/Aditya285-S/IPL_PowerBI-DashBoard/blob/main/IPL%20Visulizations/1.%20Player%20Overview.png)
